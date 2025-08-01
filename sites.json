@@ -16,7 +16,7 @@
                 {
                     "name": "Github",
                     "url": "https://github.com",
-                    "desc": "国内领先的搜索引擎"
+                    "desc": "全球著名代码托管平台"
                 },
                 {
                     "name": "XDA",
@@ -57,7 +57,7 @@
                     "name": "老设备-PFCompatibleApps资源站",
                     "url": "https://pfandroidapps.lovestoblog.com/",
                     "desc": "安卓4.4-5.1应用收集站"
-                }
+                },
                 {
                     "name": "综合-KoCleo资源站",
                     "url": "https://kc.fuquan.moe/",
@@ -87,6 +87,11 @@
                     "name": "手表-圣哥的下载站",
                     "url": "https://disk.brothersheng.top/",
                     "desc": "同样是一个很优秀的华强北手表玩机资源站"
+                },
+                {
+                    "name": "手表-atlas的华强北手表下载站",
+                    "url": "https://atlas233.top/",
+                    "desc": "一个用Alist部署的优秀资源站"
                 },
                 {
                     "name": "手表-站长自己的手表软件收集-访问密码1145",
@@ -136,6 +141,11 @@
                 {
                     "name": "TG",
                     "url": "https://t.me/Ox8D8ADE57",
+                    "desc": ""
+                },
+                {
+                    "name": "本站的备用站",
+                    "url": "http://0x7e.ysepan.com/",
                     "desc": ""
                 }
             ]
