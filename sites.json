@@ -1,0 +1,144 @@
+{
+    "categories": [
+        {
+            "name": "基础导航",
+            "sites": [
+                {
+                    "name": "必应搜索",
+                    "url": "https://cn.bing.com",
+                    "desc": "国内超越百度的搜索引擎"
+                },
+                {
+                    "name": "DCMS_Social",
+                    "url": "http://3g.cx",
+                    "desc": "由一群旧设备爱好者为旧设备搭建的社交平台"
+                },
+                {
+                    "name": "Github",
+                    "url": "https://github.com",
+                    "desc": "国内领先的搜索引擎"
+                },
+                {
+                    "name": "XDA",
+                    "url": "https://xdaforums.com/",
+                    "desc": "国外著名的玩机论坛"
+                },
+                {
+                    "name": "米坛",
+                    "url": "https://www.bandbbs.cn/",
+                    "desc": "国内穿戴社区"
+                },
+                {
+                    "name": "蓝奏云盘",
+                    "url": "https://lanzou.com",
+                    "desc": "就那样"
+                },
+                {
+                    "name": "歌曲宝",
+                    "url": "https://www.gequbao.com",
+                    "desc": "免费音乐搜索引擎"
+                },
+                {
+                    "name": "GHproxy",
+                    "url": "https://ghproxy.net",
+                    "desc": "很好的GitHub下载代理"
+                }
+            ]
+        },
+        {
+            "name": "资源站导航",
+            "sites": [
+                {
+                    "name": "老设备-安卓4游戏库",
+                    "url": "https://ad4gamesarchive.mysxl.cn/",
+                    "desc": "专门为安卓4时代的老设备打造的游戏库"
+                },
+                {
+                    "name": "老设备-PFCompatibleApps资源站",
+                    "url": "https://pfandroidapps.lovestoblog.com/",
+                    "desc": "安卓4.4-5.1应用收集站"
+                }
+                {
+                    "name": "综合-KoCleo资源站",
+                    "url": "https://kc.fuquan.moe/",
+                    "desc": "KoCleo大佬搭建的玩机资源站"
+                },
+                {
+                    "name": "综合-萤火虫资源站",
+                    "url": "https://yhcres.top/",
+                    "desc": "专门为安卓4时代的老设备打造的游戏库"
+                },
+                {
+                    "name": "老设备-老豆荚应用分享-主站",
+                    "url": "http://oldpods.cn/home/index/index",
+                    "desc": "一个优秀的老手机软件资源站"
+                },
+                {
+                    "name": "老设备-老豆荚应用分享-备用站",
+                    "url": "https://oldpods.mysxl.cn/",
+                    "desc": "老豆荚主站的备用站"
+                },
+                {
+                    "name": "手表-KEYS的云盘",
+                    "url": "https://wp.007irs.com/s/3j3f9",
+                    "desc": "华强北手表玩机资源站"
+                },
+                {
+                    "name": "手表-圣哥的下载站",
+                    "url": "https://disk.brothersheng.top/",
+                    "desc": "同样是一个很优秀的华强北手表玩机资源站"
+                },
+                {
+                    "name": "手表-站长自己的手表软件收集-访问密码1145",
+                    "url": "https://spearjie.lanzoue.com/b0zk4e24f",
+                    "desc": "收集的软件可能很少，敬请谅解"
+                },
+                {
+                    "name": "老设备-iOS6可联网使用的应用分享-访问密码7l7y",
+                    "url": "https://wwzb.lanzouw.com/b0ukb0avi",
+                    "desc": "收集了一些比较实用的适合旧iOS设备的软件"
+                }
+            ]
+        },
+        {
+            "name": "友情链接",
+            "sites": [
+                {
+                    "name": "Microeasy资源导航平台",
+                    "url": "https://microeasy.netlify.app/",
+                    "desc": "一个很棒的资源导航站"
+                },
+                {
+                    "name": "Loughead的网站",
+                    "url": "https://link3.cc/loughead",
+                    "desc": "Loughead自己的资源导航站"
+                },
+                {
+                    "name": "Carry-Hong Studio",
+                    "url": "https://carry-studio.zitzhen.cn/",
+                    "desc": "Carry Studio的博客"
+                }
+            ]
+        }
+        {
+            "name": "联系站长",
+            "sites": [
+                {
+                    "name": "DCMS",
+                    "url": "https://3g.cx/user/info.php?id=1760",
+                    "desc": ""
+                },
+                {
+                    "name": "B站",
+                    "url": "https://space.bilibili.com/3493132133993307",
+                    "desc": ""
+                },
+                {
+                    "name": "TG",
+                    "url": "https://t.me/Ox8D8ADE57",
+                    "desc": ""
+                }
+            ]
+        }
+    ]
+}

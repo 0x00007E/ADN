@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADN导航站 - 跳转中</title>
+</head>
+<body>
+    <script>
+        function detectDevice() {
+            var ua = navigator.userAgent.toLowerCase();
+            var isMobile = /android|iphone|ipod|ipad|windows phone/.test(ua);
+            var isAndroid23 = ua.indexOf('android 2.3') > -1;
+            if (isMobile || isAndroid23) {
+                window.location.href = 'mobile.html';
+            } else {
+                window.location.href = 'desktop.html';
+            }
+        }
+        
+        // 立即执行检测
+        detectDevice();
+    </script>
+    <p>正在跳转到适合您设备的页面...<br>如果长时间未跳转，请点击下方链接<br>
+    <a href="/ADN/mobile.html">手机版</a> | <a href="/ADN/desktop.html">电脑版</a>
+    </p>
+</body>
+</html>

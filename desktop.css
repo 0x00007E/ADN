@@ -1,0 +1,104 @@
+/* 基础样式重置 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Microsoft YaHei", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ddd;
+}
+
+header h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+header a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+#nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.loading {
+    text-align: center;
+    padding: 50px;
+    color: #666;
+    font-size: 16px;
+}
+
+.category-title {
+    font-size: 22px;
+    margin: 25px 0 15px;
+    color: #222;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #0066cc;
+}
+
+.link-list {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.site-link {
+    display: inline-block;
+    width: 24%;
+    min-width: 200px;
+    background-color: white;
+    padding: 15px;
+    margin: 0 0.5% 15px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #333;
+    border: 1px solid #ddd;
+    vertical-align: top;
+}
+
+.site-link:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    border-color: #0066cc;
+}
+
+.site-name {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #0066cc;
+}
+
+.site-desc {
+    font-size: 13px;
+    color: #666;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px 0;
+    font-size: 14px;
+    color: #666;
+    border-top: 1px solid #ddd;
+}
+
+footer a {
+    color: #0066cc;
+    text-decoration: none;
+}

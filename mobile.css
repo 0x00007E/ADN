@@ -1,0 +1,97 @@
+/* 基础样式重置 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #f5f5f5;
+    color: #333;
+    padding: 10px;
+}
+
+header {
+    text-align: center;
+    padding: 15px 0;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+header h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+header a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+#nav-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.loading {
+    text-align: center;
+    padding: 20px;
+    color: #666;
+}
+
+.category-title {
+    font-size: 18px;
+    margin: 15px 0 10px;
+    color: #333;
+    padding-left: 5px;
+    border-left: 3px solid #0066cc;
+}
+
+.link-list {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.site-link {
+    display: block;
+    background-color: white;
+    padding: 12px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #333;
+    border: 1px solid #ddd;
+}
+
+.site-link:hover {
+    background-color: #f0f7ff;
+    border-color: #0066cc;
+}
+
+.site-name {
+    font-weight: bold;
+    font-size: 17px;
+    margin-bottom: 3px;
+}
+
+.site-desc {
+    font-size: 14px;
+    color: #666;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 15px 0;
+    font-size: 14px;
+    color: #666;
+    border-top: 1px solid #ddd;
+}
+
+footer a {
+    color: #0066cc;
+    text-decoration: none;
+}
